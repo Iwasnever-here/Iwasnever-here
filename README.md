@@ -6,11 +6,6 @@ I just finished working on my first full-stack project — a Todo app with user 
 <br><br>
 
 Outside of building projects, I'm also studying cybersecurity, expanding my knowledge of how to protect systems and data
-<br><br><br><br>
-
-
-**Fun fact:** 
-
-I drink hot water. Just hot water. No tea. No coffee. It’s great
+<br><br><br>
 
 ### **view my portfolio at [here](https://iwasnever-here.github.io/)**
