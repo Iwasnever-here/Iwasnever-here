@@ -1,6 +1,6 @@
 ### 👋 Hi there!
 
-Computer Science student passionate about building scalable software and solving complex problems.
+3rd year cs student 
 
 #### working with:
 • React
